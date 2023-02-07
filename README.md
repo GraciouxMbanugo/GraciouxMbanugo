@@ -20,7 +20,7 @@
 ---
 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="CSS Logo" width="80" height="80"/>
 
 
 ---
