@@ -21,9 +21,8 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="100" height="100"/>        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css Logo" width="100" height="100"/>   
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap Logo" width="100" height="100"/>
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass Logo" width="100" height="100"/>                 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="JavaScript Logo" width="100" height="100"/>                         <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="100" height="100"/>           <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue js Logo" width="100" height="100"/>      <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello Logo" width="100" height="100"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="100" height="100"/>        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css Logo" width="100" height="100"/>          <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap Logo" width="100" height="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass Logo" width="100" height="100"/>             <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="JavaScript Logo" width="100" height="100"/>                         <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JavaScript Logo" width="100" height="100"/>           <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue js Logo" width="100" height="100"/>      <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello Logo" width="100" height="100"/>  
   
 
 
