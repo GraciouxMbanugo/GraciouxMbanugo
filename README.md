@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact: I transitioned into Tech from a completely non-technical background and I just concluded my first internship that came with a free laptop and mentorship at https://devcareer.io/
+- ⚡ Fun fact: I transitioned into Tech from a completely non-technical background and I just concluded an internship that came with a free laptop and mentorship at https://devcareer.io/
 
 - 🔭 I’m currently working on a fintech project with a team, and getting a better grasp and understanding of typescript and Redux
 
