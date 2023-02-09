@@ -3,9 +3,9 @@
 
 
 
--  😄 Pronouns: she/her
+-  ✌ Pronouns: she/her
 
--  Currently a Technical Writer volunteer for OSCA(Open Source Community Africa), Abuja, Nigeria.
+-  👌 Currently a Technical Writer volunteer for OSCA(Open Source Community Africa), Abuja, Nigeria.
 
 -  ⚡ Fun fact: I transitioned into Tech from a completely non-technical background and I recently concluded an internship that came with a free laptop and mentorship at https://devcareer.io/
 
